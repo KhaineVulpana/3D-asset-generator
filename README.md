@@ -1,1 +1,1 @@
-# 3D-asset-generator-
+# 3D-asset-generator
